@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FavourAkpasi
 - 👀 I’m interested in Web and Mobile Application Design and Developement.
-- 🌱 I’m currently learning JavaScript, and React.
+- 🌱 I’m a TypeScript React Developer
 - 💞️ I’m looking to collaborate on Projets 
 - 📫 contact me via mail : akpasifavour@gmail.com 
                  via phone 08066933070
