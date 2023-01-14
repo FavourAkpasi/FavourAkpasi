@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Favour. 
--  🌱 I’m a TypeScript React Developer.
+- 🌱 I’m a Software Engineer.
+- 💻 Stack includes React, Next, Typescript, React Native, Node.
 - 👀 I’m interested in Web and Mobile Application Design and Developement.
 - 💞️ I’m looking to collaborate on Projets. 
 - 📫 contact me via mail : akpasifavour@gmail.com,
