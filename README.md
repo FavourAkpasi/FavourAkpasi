@@ -3,8 +3,8 @@
 - 💻 Stack includes React, Next, Typescript, React Native, Node.
 - 👀 I’m interested in Web and Mobile Application Design and Developement.
 - 💞️ I’m looking to collaborate on Projets. 
-- 📫 contact me via mail : akpasifavour@gmail.com,
-                 via phone 08066933070
+- 📫 contact me via mail : akpasifavour@gmail.com
+       
 
 <!---
 FavourAkpasi/FavourAkpasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
