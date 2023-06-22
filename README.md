@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Favour. 
 - 🌱 I’m a Software Engineer.
-- 💻 JavaScript - React, Vue, TypeScript, React Native, Next.
+- 💻 JavaScript - React, Vue, TypeScript, React Native, Next, Node, Express.
 - 💻 Python - TensorFlow, NumPy, PyTorch, SciKit-Learn.
 - 👀 I’m interested in Web and Mobile Application Design and Developement | AI & ML Engineering.
 - 💞️ I’m looking to collaborate on Projets. 
