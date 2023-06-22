@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Favour. 
 - 🌱 I’m a Software Engineer.
-- 💻 Stack includes React, Next, Typescript, React Native, Node.
-- 👀 I’m interested in Web and Mobile Application Design and Developement.
+- 💻 JavaScript - React, Vue, TypeScript, React Native, Next.
+- 💻 Python - TensorFlow, NumPy, PyTorch, SciKit-Learn.
+- 👀 I’m interested in Web and Mobile Application Design and Developement | AI & ML Engineering.
 - 💞️ I’m looking to collaborate on Projets. 
 - 📫 contact me via mail : akpasifavour@gmail.com
        
